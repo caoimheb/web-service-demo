@@ -1,4 +1,3 @@
-# true
 
 How to start the true application
 ---
